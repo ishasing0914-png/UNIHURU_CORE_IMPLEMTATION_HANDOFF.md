@@ -1,0 +1,10 @@
+# Code owners for UniGuru boundaries
+
+# Core team owns UniGuru core
+/src/uniguru/ @intelligence-team
+
+# Enforcement owners
+/src/uniguru/enforcement/ @enforcement-team
+
+# Adapters and integrations
+/src/adapters/ @adapters-team
